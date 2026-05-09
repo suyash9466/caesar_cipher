@@ -33,7 +33,7 @@ def get_shift():
 
 def main():
     print("=" * 50)
-    print("       Caesar Cipher — Prodigy Task 01")
+    print("       Caesar Cipher")
     print("=" * 50)
 
     while True:
